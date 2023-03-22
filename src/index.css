@@ -12,3 +12,8 @@ body {
   width: 100vw;
   font-family: 'Inter', sans-serif;
 }
+
+button {
+  font-family: 'Inter', sans-serif;
+  padding: 1rem;
+}
